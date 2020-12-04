@@ -20,7 +20,7 @@
 
 <p>
   <img alt="Pressure Valve Render" src="./src/pressure-valve/milling/schemes/V7/Pressure%20Valve%20(Render%201).png" height="240">
-  <img alt="Pressure Valve Milled" src="./src/pressure-valve/milling/schemes/V7/Pressure%20Valve%20(Factory%20Sample%201).jpg" height="240">
+  <img alt="Pressure Valve Milled" src="./src/pressure-valve/milling/schemes/V7/Pressure%20Valve%20(Factory%20Sample%201).jpg" height="220">
 </p>
 
 ### The "Blower"
