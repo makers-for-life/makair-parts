@@ -6,7 +6,7 @@
 | ---- | ------- | -------------- | ------ | --------------- | ------------ |
 | [Blower](./src/blower) | V14 | Smaller form factor & more powerful | ✅ | [view model](https://a360.co/2JIBr8d) | Gabriel Moneyron + [Baptiste Jamin](https://github.com/baptistejamin) + [Valerian Saliou](https://github.com/valeriansaliou)
 | [Blower Holder](./src/blower-holder) | V3 | Differentiate Model A and Model B | ✅ | [view a model](https://a360.co/2xiu2tr), [view b model](https://a360.co/2ViA05J) | Gabriel Moneyron + [Valerian Saliou](https://github.com/valeriansaliou)
-| [Pressure Valve](./src/pressure-valve) | V6 | General improvements | ✅ | [view model](https://a360.co/2RyQLsr) | [Clement Niclot](https://github.com/clementniclot)
+| [Pressure Valve](./src/pressure-valve) | V7 | More durable design with Faulhaber motors | ✅ | [view model](https://a360.co/2KZLXeW) | [Clement Niclot](https://github.com/clementniclot)
 | [Oxygen Mixer](./src/oxygen-mixer) | V4 | Updated with correct O2 ID diameter, reinforced O2 nipple. | ✅ | [view model](https://a360.co/2XrUdIV) | [Yohann Nédélec](https://github.com/Melkaz) + Steven Daix
 | [Patient Filter Box](./src/patient-filter-box) | V6 | Update input/output mensurations | ✅ | [view model](https://a360.co/2UT72dP) | Martial Medjber + [Eliott Vincent](https://github.com/eliottvincent)
 | [Machine Filter Box (Intake)](./src/machine-filter-box) | V2 | Modeling corrections | ✅ | [view model](https://a360.co/2x1mhIx) | [Valerian Saliou](https://github.com/valeriansaliou)
@@ -19,8 +19,8 @@
 ### The "Pressure Valve"
 
 <p>
-  <img alt="Pressure Valve Render" src="./src/pressure-valve/printing/schemes/V6/Pressure%20Valve%20(Render%201).png" height="240">
-  <img alt="Pressure Valve Print" src="./src/pressure-valve/printing/schemes/V6/Pressure%20Valve%20(Print%201).jpg" height="240">
+  <img alt="Pressure Valve Render" src="./src/pressure-valve/milling/schemes/V7/Pressure%20Valve%20(Render%201).png" height="240">
+  <img alt="Pressure Valve Milled" src="./src/pressure-valve/milling/schemes/V7/Pressure%20Valve%20(Factory%20Sample%201).jpg" height="240">
 </p>
 
 ### The "Blower"
