@@ -13,7 +13,7 @@
 | [Machine Filter Box (Outtake)](./src/machine-filter-box) | V2 | Modeling corrections | ✅ | [view model](https://a360.co/2XeSVAP) | [Valerian Saliou](https://github.com/valeriansaliou)
 | [Pneumatic Connectors](./src/pneumatic-connectors) | V4 | Wall-mountable patient connectors | ✅ | [view o2 model](https://a360.co/3bVsX9N), [view blower model](https://a360.co/2UNMVgY), [view respiratory pressure model](https://a360.co/3av64c0), [view respiratory no pressure model](https://a360.co/2XZB5T0) | Gabriel Moneyron
 | [Fan Holder](./src/fan-holder) | V2 | Wall-mounted version | ✅ | [view floor-mounted model](https://a360.co/2V8enEU), [view wall-mounted model](https://a360.co/3cLgsy1) | [Eliott Vincent](https://github.com/eliottvincent)
-| [Mass Flow Meter Cap](./src/mass-flow-meter-cap) V1 | Initial version for SFM3300-D | ✅ | [view model](https://a360.co/39bc62M) | [Valerian Saliou](https://github.com/valeriansaliou)
+| [Mass Flow Meter Cap](./src/mass-flow-meter-cap) | V1 | Initial version for SFM3300-D | ✅ | [view model](https://a360.co/39bc62M) | [Valerian Saliou](https://github.com/valeriansaliou)
 
 ## Renders
 
