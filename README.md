@@ -13,6 +13,7 @@
 | [Machine Filter Box (Outtake)](./src/machine-filter-box) | V2 | Modeling corrections | ✅ | [view model](https://a360.co/2XeSVAP) | [Valerian Saliou](https://github.com/valeriansaliou)
 | [Pneumatic Connectors](./src/pneumatic-connectors) | V4 | Wall-mountable patient connectors | ✅ | [view o2 model](https://a360.co/3bVsX9N), [view blower model](https://a360.co/2UNMVgY), [view respiratory pressure model](https://a360.co/3av64c0), [view respiratory no pressure model](https://a360.co/2XZB5T0) | Gabriel Moneyron
 | [Fan Holder](./src/fan-holder) | V2 | Wall-mounted version | ✅ | [view floor-mounted model](https://a360.co/2V8enEU), [view wall-mounted model](https://a360.co/3cLgsy1) | [Eliott Vincent](https://github.com/eliottvincent)
+| [Mass Flow Meter Cap](./src/mass-flow-meter-cap) V1 | Initial version for SFM3300-D | ✅ | [view model](https://a360.co/39bc62M) | [Valerian Saliou](https://github.com/valeriansaliou)
 
 ## Renders
 
@@ -81,4 +82,11 @@
   <img alt="Fan Holder Floor Print" src="./src/fan-holder/printing/schemes/V2/Fan%20Holder%20V2%20(Floor)/Fan%20Holder%20Floor%20(Print%201).jpg" height="240">
   <img alt="Fan Holder Wall Render" src="./src/fan-holder/printing/schemes/V2/Fan%20Holder%20V2%20(Wall)/Fan%20Holder%20Wall%20(Render%201).png" height="240">
   <img alt="Fan Holder Wall Print" src="./src/fan-holder/printing/schemes/V2/Fan%20Holder%20V2%20(Wall)/Fan%20Holder%20Wall%20(Print%201).jpg" height="240">
+</p>
+
+### The "Mass Flow Meter Cap"
+
+<p>
+  <img alt="Mass Flow Meter Cap Render" src="./src/mass-flow-meter-cap/printing/schemes/V1/Mass%20Flow%20Meter%20Cap%20(Render%201).png" height="240">
+  <img alt="Mass Flow Meter Cap Print" src="./src/mass-flow-meter-cap/printing/schemes/V1/Mass%20Flow%20Meter%20Cap%20(Print%201).jpg" height="240">
 </p>
