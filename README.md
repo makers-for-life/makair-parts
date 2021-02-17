@@ -19,74 +19,74 @@
 
 ### The "Pressure Valve"
 
-<p>
-  <img alt="Pressure Valve Render" src="./src/pressure-valve/milling/schemes/V7/Pressure%20Valve%20(Render%201).png" height="220">
-  <img alt="Pressure Valve Milled" src="./src/pressure-valve/milling/schemes/V7/Pressure%20Valve%20(Factory%20Sample%201).jpg" height="220">
+<p align="center">
+  <img alt="Pressure Valve Render" src="./src/pressure-valve/milling/schemes/V7/Pressure%20Valve%20(Render%201).png" width="403">
+  <img alt="Pressure Valve Milled" src="./src/pressure-valve/milling/schemes/V7/Pressure%20Valve%20(Factory%20Sample%201).jpg" width="422">
 </p>
 
 ### The "Blower"
 
 🎦 View: [Animation of the "Blower"](./src/blower/printing/schemes/V14/Blower%20(Animation%201).mp4)
 
-<p>
-  <img alt="Blower Render" src="./src/blower/printing/schemes/V14/Blower%20(Render%201).png" height="240">
-  <img alt="Blower Render" src="./src/blower/printing/schemes/V14/Blower%20(Render%202).png" height="240">
-  <img alt="Blower Render" src="./src/blower/printing/schemes/V14/Blower%20(Print%201).jpg" height="240">
-  <img alt="Blower Render" src="./src/blower/printing/schemes/V14/Blower%20(Print%202).jpg" height="240">
+<p align="center">
+  <img alt="Blower Render" src="./src/blower/printing/schemes/V14/Blower%20(Render%201).png" width="354">
+  <img alt="Blower Render" src="./src/blower/printing/schemes/V14/Blower%20(Render%202).png" width="377">
+  <img alt="Blower Render" src="./src/blower/printing/schemes/V14/Blower%20(Print%201).jpg" width="285">
+  <img alt="Blower Render" src="./src/blower/printing/schemes/V14/Blower%20(Print%202).jpg" width="221">
 </p>
 
 ### The "Blower Holder"
 
-<p>
-  <img alt="Blower Holder Model A Render" src="./src/blower-holder/printing/schemes/V3/Blower%20Holder%20V3%20(Model%20A)/Blower%20Holder%20Model%20A%20(Render%201).png" height="240">
-  <img alt="Blower Holder Model B Render" src="./src/blower-holder/printing/schemes/V3/Blower%20Holder%20V3%20(Model%20B)/Blower%20Holder%20Model%20B%20(Render%201).png" height="240">
-  <img alt="Blower Holder Print" src="./src/blower-holder/printing/schemes/Archives/V1/Blower%20Holder%20(Print%201).jpg" height="240">
+<p align="center">
+  <img alt="Blower Holder Model A Render" src="./src/blower-holder/printing/schemes/V3/Blower%20Holder%20V3%20(Model%20A)/Blower%20Holder%20Model%20A%20(Render%201).png" width="284">
+  <img alt="Blower Holder Model B Render" src="./src/blower-holder/printing/schemes/V3/Blower%20Holder%20V3%20(Model%20B)/Blower%20Holder%20Model%20B%20(Render%201).png" width="284">
+  <img alt="Blower Holder Print" src="./src/blower-holder/printing/schemes/Archives/V1/Blower%20Holder%20(Print%201).jpg" width="281">
 </p>
 
 ### The "Oxygen Mixer"
 
-<p>
-  <img alt="Oxygen Mixer Render" src="./src/oxygen-mixer/printing/schemes/V4/Oxygen%20Mixer%20(Render%201).png" height="240">
-  <img alt="Oxygen Mixer Print" src="./src/oxygen-mixer/printing/schemes/V4/Oxygen%20Mixer%20(Print%201).jpg" height="240">
+<p align="center">
+  <img alt="Oxygen Mixer Render" src="./src/oxygen-mixer/printing/schemes/V4/Oxygen%20Mixer%20(Render%201).png" width="161">
+  <img alt="Oxygen Mixer Print" src="./src/oxygen-mixer/printing/schemes/V4/Oxygen%20Mixer%20(Print%201).jpg" width="354">
 </p>
 
 ### The "Machine Filter Box" (Both Directions)
 
-<p>
-  <img alt="Machine Filter Box Render" src="./src/machine-filter-box/printing/schemes/Archives/V1/Filter%20Box%20(Render%201).png" height="320">
-  <img alt="Machine Filter Box Print" src="./src/machine-filter-box/printing/schemes/Archives/V1/Filter%20Box%20(Print%201).jpg" height="320">
+<p align="center">
+  <img alt="Machine Filter Box Render" src="./src/machine-filter-box/printing/schemes/Archives/V1/Filter%20Box%20(Render%201).png" width="514">
+  <img alt="Machine Filter Box Print" src="./src/machine-filter-box/printing/schemes/Archives/V1/Filter%20Box%20(Print%201).jpg" width="238">
 </p>
 
 ### The "Patient Filter Box"
 
-<p>
-  <img alt="Patient Filter Box Render" src="./src/patient-filter-box/printing/schemes/V6/Filter%20Box%20(Mensurations).JPG" height="320">
-  <img alt="Machine Filter Box Print" src="./src/patient-filter-box/printing/schemes/Archives/V5/Filter%20Box%20(Print%201).jpg" height="320">
+<p align="center">
+  <img alt="Patient Filter Box Render" src="./src/patient-filter-box/printing/schemes/V6/Filter%20Box%20(Mensurations).JPG" width="359">
+  <img alt="Machine Filter Box Print" src="./src/patient-filter-box/printing/schemes/Archives/V5/Filter%20Box%20(Print%201).jpg" width="372">
 </p>
 
 ### The "Pneumatic Connectors"
 
-<p>
-  <img alt="Pneumatic Connector Blower Render" src="./src/pneumatic-connectors/printing/schemes/V4/Blower%20V5/Pneumatic%20Connector%20Blower%20V5.png" height="240">
-  <img alt="Pneumatic Connector O2 Render" src="./src/pneumatic-connectors/printing/schemes/V4/O2%20V3/Pneumatic%20Connector%20O2%20V3.png" height="240">
-  <img alt="Pneumatic Connector pressure Render" src="./src/pneumatic-connectors/printing/schemes/V4/Respiratory%20-%20Pressure%20V4/Pneumatic%20Connector%20Respiratory%20Pressure%20(Render%201).png" height="240">
-  <img alt="Pneumatic Connector O2 Print" src="./src/pneumatic-connectors/printing/schemes/V4/O2%20V3/Pneumatic%20Connector%20O2%20V3%20Print.jpg" height="240">
-  <img alt="Pneumatic Connector Blower Print" src="./src/pneumatic-connectors/printing/schemes/V4/Blower%20V5/Pneumatic%20Connector%20Blower%20V4%20Print.jpg" height="240">
-  <img alt="Pneumatic Connector No pressure Print" src="./src/pneumatic-connectors/printing/schemes/V4/Respiratory%20-%20Pressure%20V4/Pneumatic%20Connector%20Respiratory%20Pressure%20(Print%201).jpg" height="240">
+<p align="center">
+  <img alt="Pneumatic Connector Blower Render" src="./src/pneumatic-connectors/printing/schemes/V4/Blower%20V5/Pneumatic%20Connector%20Blower%20V5.png" width="187">
+  <img alt="Pneumatic Connector O2 Render" src="./src/pneumatic-connectors/printing/schemes/V4/O2%20V3/Pneumatic%20Connector%20O2%20V3.png" width="240">
+  <img alt="Pneumatic Connector pressure Render" src="./src/pneumatic-connectors/printing/schemes/V4/Respiratory%20-%20Pressure%20V4/Pneumatic%20Connector%20Respiratory%20Pressure%20(Render%201).png" width="273">
+  <img alt="Pneumatic Connector O2 Print" src="./src/pneumatic-connectors/printing/schemes/V4/O2%20V3/Pneumatic%20Connector%20O2%20V3%20Print.jpg" width="348">
+  <img alt="Pneumatic Connector Blower Print" src="./src/pneumatic-connectors/printing/schemes/V4/Blower%20V5/Pneumatic%20Connector%20Blower%20V4%20Print.jpg" width="305">
+  <img alt="Pneumatic Connector No pressure Print" src="./src/pneumatic-connectors/printing/schemes/V4/Respiratory%20-%20Pressure%20V4/Pneumatic%20Connector%20Respiratory%20Pressure%20(Print%201).jpg" width="340">
 </p>
 
 ### The "Fan Holder"
 
-<p>
-  <img alt="Fan Holder Floor Render" src="./src/fan-holder/printing/schemes/V2/Fan%20Holder%20V2%20(Floor)/Fan%20Holder%20Floor%20(Render%201).png" height="240">
-  <img alt="Fan Holder Floor Print" src="./src/fan-holder/printing/schemes/V2/Fan%20Holder%20V2%20(Floor)/Fan%20Holder%20Floor%20(Print%201).jpg" height="240">
-  <img alt="Fan Holder Wall Render" src="./src/fan-holder/printing/schemes/V2/Fan%20Holder%20V2%20(Wall)/Fan%20Holder%20Wall%20(Render%201).png" height="240">
-  <img alt="Fan Holder Wall Print" src="./src/fan-holder/printing/schemes/V2/Fan%20Holder%20V2%20(Wall)/Fan%20Holder%20Wall%20(Print%201).jpg" height="240">
+<p align="center">
+  <img alt="Fan Holder Floor Render" src="./src/fan-holder/printing/schemes/V2/Fan%20Holder%20V2%20(Floor)/Fan%20Holder%20Floor%20(Render%201).png" width="379">
+  <img alt="Fan Holder Floor Print" src="./src/fan-holder/printing/schemes/V2/Fan%20Holder%20V2%20(Floor)/Fan%20Holder%20Floor%20(Print%201).jpg" width="191">
+  <img alt="Fan Holder Wall Render" src="./src/fan-holder/printing/schemes/V2/Fan%20Holder%20V2%20(Wall)/Fan%20Holder%20Wall%20(Render%201).png" width="158">
+  <img alt="Fan Holder Wall Print" src="./src/fan-holder/printing/schemes/V2/Fan%20Holder%20V2%20(Wall)/Fan%20Holder%20Wall%20(Print%201).jpg" width="211">
 </p>
 
 ### The "Mass Flow Meter Cap"
 
-<p>
-  <img alt="Mass Flow Meter Cap Render" src="./src/mass-flow-meter-cap/printing/schemes/V1/Mass%20Flow%20Meter%20Cap%20(Render%201).png" height="240">
-  <img alt="Mass Flow Meter Cap Print" src="./src/mass-flow-meter-cap/printing/schemes/V1/Mass%20Flow%20Meter%20Cap%20(Print%201).jpg" height="240">
+<p align="center">
+  <img alt="Mass Flow Meter Cap Render" src="./src/mass-flow-meter-cap/printing/schemes/V1/Mass%20Flow%20Meter%20Cap%20(Render%201).png" width="296">
+  <img alt="Mass Flow Meter Cap Print" src="./src/mass-flow-meter-cap/printing/schemes/V1/Mass%20Flow%20Meter%20Cap%20(Print%201).jpg" width="240">
 </p>
