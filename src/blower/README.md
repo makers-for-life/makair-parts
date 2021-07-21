@@ -8,3 +8,4 @@
 | V12 | Increase air compression rate | ❌ | [view model](https://a360.co/2y59eWF)
 | V13 | Increased air compression rate | ❌ | [view model](https://a360.co/2UsIdDU)
 | V14 | Smaller form factor & more powerful | ✅ | [view model](https://a360.co/2JIBr8d)
+| V15 | Silent casing with foam & more powerful | ❌ | [view model](https://a360.co/3rmygbb)
