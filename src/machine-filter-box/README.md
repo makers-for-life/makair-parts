@@ -6,6 +6,7 @@
 | ------- | -------------- | ------ | --------------- |
 | V1 | Wall-mountable, 3D-printability optimizations | ✅ | none
 | V2 | Modeling corrections | ✅ | [view model](https://a360.co/2x1mhIx)
+| V3 | Silent design with reduced air suction noise | ❌ | [view model](https://a360.co/3zugPbq)
 
 ## Direction: Outtake
 
